@@ -1,6 +1,6 @@
 # Unsere verwendete Spigot Version
 
-Hier findet ihr unsere aktuelle Spigot-Version die wir für die Programmierung aller Minecraft plugins verwenden. Hier könnt ihr sie Herunterladen: https://github.com/ifheroes/current-spigotversion/
+Hier findet ihr unsere aktuelle Spigot-Version die wir für die Programmierung aller Minecraft plugins verwenden. Hier könnt ihr sie Herunterladen: https://github.com/ifheroes/current-spigotversion/tree/main/Server-PROD
 
 Zu SpigotMC: https://github.com/SpigotMC
 
